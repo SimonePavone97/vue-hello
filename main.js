@@ -7,7 +7,8 @@ var app = new Vue (
     {
         el: '#message',
         data: {
-            content: 'Sono Simone, ho 24 anni'
+            content: 'Sono Simone, ho 24 anni',
+            userProfilePic: 'https://i.imgur.com/jQAcIXM.png'
         }
     }
 );
